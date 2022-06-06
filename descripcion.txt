@@ -1,0 +1,1 @@
+Guia #1 para aprender a usar GITHUB, la idea es hacer las pruebas suficientes para saber como dividir el git hub del semillero para distribuir cada una de los codigos a emplear 
